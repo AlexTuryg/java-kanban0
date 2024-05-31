@@ -30,7 +30,7 @@ public class Main {
         //
         // Удаляет все эпики и сабтаски
         deleteAllEpic(manager);
-        // Удаляет все таски
+        // Удаляет все сабтаски
         deleteAllSubtasks(manager);
 
         //Старый тест на проверку работы истории
